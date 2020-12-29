@@ -1,0 +1,2 @@
+# cloudGruLivePainel
+um painel de control le aulternativo opensouce mais é um projeto do cyber painel,  nesse repositorio o progeto  foi editado e feito algumas mudanças e melhorias em alguns bugs.  porem pode não acoconselho usar em produção para produção é aconcelhavel  o cyber painel original,  esse progeto é apenas para estudo e do cursos e para aprendiz  de php html e jave escripts.  se voc~e suber esse codigos pode resolver bugs e fazer as melhorias necessaria a seu modo. divirta-se e bom estudos.
